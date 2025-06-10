@@ -1,0 +1,14 @@
+{
+  "name": "snake-telnet",
+  "version": "1.0.0",
+  "description": "A snake game playable over telnet",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["snake", "game", "telnet", "terminal"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
