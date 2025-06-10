@@ -1,4 +1,4 @@
-# Snake Telnet
+# Telnake
 
 A classic Snake game playable over telnet! Connect to the server and enjoy the nostalgic snake game directly in your terminal.
 
